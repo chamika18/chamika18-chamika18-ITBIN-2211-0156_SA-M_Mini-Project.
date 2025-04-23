@@ -1,6 +1,6 @@
 <<<<<<< HEAD
-# ITBIN-2211-0156_MAD_Mini_Project.
-ITBIN-2211-0156_MAD_02-assignment_Mini Project in University of Horizon.
+# ITBIN-2211-0156_SA & M_Mini_Project.
+ITBIN-2211-0156_SA & M_Mini Project in University of Horizon.
 =======
 <div align="center">
   <br />
